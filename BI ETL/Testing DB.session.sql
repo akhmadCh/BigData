@@ -1,0 +1,1 @@
+SELECT * FROM superhero_dw.dimcase;
