@@ -132,7 +132,7 @@ function transformDimInformant(informants) {
 function transformDimDate(cases, patrols) {
    const dateSet = new Set();
    
-   // Kumpulkan semua tanggal unik
+   // tanggal unik untuk setiap case
    cases.forEach(c => {
       if (c.date_opened) dateSet.add(formatDate(c.date_opened));
       if (c.date_closed) dateSet.add(formatDate(c.date_closed));
