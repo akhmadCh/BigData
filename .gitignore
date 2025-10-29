@@ -1,0 +1,10 @@
+# Folder Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
