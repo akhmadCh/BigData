@@ -1,0 +1,7 @@
+20171223-22:19:58:411|HiH_HiHealthBinder|30002312|insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4
+20171223-22:19:58:428|HiH_HiBroadcastUtil|30002312|sendSyncFailedBroadcast
+20171223-22:19:58:428|HiH_HiSyncControl|30002312|ifCanSync not! no cloud version
+20171223-22:32:28:796|HiH_HiBroadcastUtil|30002312|sendSyncFailedBroadcast
+20171223-22:32:28:806|HiH_HiSyncControl|30002312|ifCanSync not! no cloud version
+20171224-00:32:28:806|HiH_HiBroadcastUtil|30002312|sendSyncFailedBroadcast
+20171224-00:32:28:806|HiH_HiSyncControl|30002312|ifCanSync not! no cloud version
